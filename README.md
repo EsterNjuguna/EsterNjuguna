@@ -1,4 +1,4 @@
-
+![logo](https://github.com/EsterNjuguna/EsterNjuguna/blob/main/IMG-20221121-WA0006.jpg)
 <h1 align="center">Hi 👋, I'm Esther Njuguna</h1>
 <h3 align="center">A passionate FullStack Developer and a Data analyst</h3>
 
